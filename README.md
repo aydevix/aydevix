@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/THEGOLDENPRO/anime-girls-and-computers/blob/main/linux/arch/tsubasa_katsuki_arch.jpg?raw=true" alt="Tsubasa Katsuki on Arch Linux" width="200" />
+  <img src="https://github.com/THEGOLDENPRO/anime-girls-and-computers/blob/main/linux/arch/tsubasa_katsuki_arch.jpg?raw=true" alt="Tsubasa Katsuki on Arch Linux" width="900" />
 </p>
 
 # Ayone
@@ -24,7 +24,7 @@ Artem · 13 y.o. · Belarus
 
 ## ── now ────────────────────────────────────────────
 
-Working on **lush** — a minimalist shell.
+Nothing now.
 
 ## ── languages ──────────────────────────────────────
 
