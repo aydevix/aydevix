@@ -1,16 +1,35 @@
-## Hi there 👋
+# Ayone
 
-<!--
-**aydevix/aydevix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+$ whoami
+Artem · 13 y.o. · Belarus
+```
 
-Here are some ideas to get you started:
+## ── about ──────────────────────────────────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programmer · content creator · vibecoder · designer
+- Writes in **Go** and **Lua**
+- Minimalism and Linux enthusiast
+- Building a portfolio out of personal projects
+
+## ── stack ──────────────────────────────────────────
+
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://go.dev)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org)
+[![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash)
+
+## ── now ────────────────────────────────────────────
+
+Nothing..
+
+## ── languages ──────────────────────────────────────
+
+- Russian — fluent
+- Belarusian — basic
+- English — basic
+
+---
+
+```
+$ exit
+```
