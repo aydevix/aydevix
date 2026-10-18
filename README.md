@@ -24,7 +24,7 @@ Artem · 13 y.o. · Belarus
 
 ## ── now ────────────────────────────────────────────
 
-Nothing now.
+making a new distro on fedora kinoite.
 
 ## ── languages ──────────────────────────────────────
 
